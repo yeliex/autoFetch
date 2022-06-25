@@ -46,7 +46,7 @@
     "webpack": "^1.13.2"
   },
   "dependencies": {
-    "node-fetch": "2.0.0-alpha.3",
+    "node-fetch": "2.6.7",
     "qs": "^6.3.0"
   }
 }
